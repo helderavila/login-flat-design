@@ -39,10 +39,10 @@ body {
   transition: 0.25s;
 }
 
-.box input[type = "text"]:focus,.box input[type="password"]:focus {
+/*.box input[type = "text"]:focus,.box input[type="password"]:focus { JAVASSCRIPT NOW
   width: 280px;
   border-color: #f1c40f;
-}
+}*/
 
 .box input[type = "text"]::placeholder,.box input[type="password"]::placeholder {
   color: white;
@@ -65,6 +65,6 @@ body {
   transition: 0.25s;
 }
 
-.box input[type="submit"]:hover {
+/*.box input[type="submit"]:hover { JAVASCRIPT NOW
   background: #f1c40f;
-}
+}*/ 
